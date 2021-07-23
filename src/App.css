@@ -1,0 +1,23 @@
+#goals {
+  width: 35rem;
+  max-width: 90%;
+  margin: -1.5rem 0;
+}
+
+#goal-form{
+  width: 30rem;
+  max-width: 90%;
+  margin: 3rem 0;
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+
+
+}
+
+.form {
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
